@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "Hugo Deploy",
+            "program": "$USER_HOME$/AppData/Local/Microsoft/WinGet/Packages/Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe/hugo.exe",
+            "args": ["server"],
+        },
+        {
+            "type": "command",
+            "name": "Hugo Compile",
+            "program": "$USER_HOME$/AppData/Local/Microsoft/WinGet/Packages/Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe/hugo.exe",
+            "args": [""],
+        },
+    ]
+}
